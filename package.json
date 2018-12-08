@@ -3,9 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emotion/core": "^10.0.4",
+    "@emotion/styled": "^10.0.4",
+    "emotion": "^10.0.4",
+    "ramda": "^0.26.1",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
-    "react-scripts": "2.1.1"
+    "react-scripts": "2.1.1",
+    "youtube-embed-video": "^1.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
